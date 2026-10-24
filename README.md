@@ -7,8 +7,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=600&height=60&lines=Artificial+Intelligence;Software+Engineer;Building &+Creating+;Code.+Create.+Innovate" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&height=60&lines=Exploring+Artificial+Intelligence;Turning+Ideas+into+Code;Building+Projects%2C+Solving+Problems;Code%2C+Create%2C+Innovate" alt="Typing SVG">
 </p>
+
 
 <p align="center">
   <i>Learning, building, and turning ideas into meaningful software.</i>
