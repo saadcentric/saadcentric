@@ -1,13 +1,13 @@
 <h1 align="center">Hey folks! I'm Saad 👋</h1>
 
-<h3 align="center">Computer Science & Engineering Student | Developer | Tech Enthusiast</h3>
+<h3 align="center">Computer Science & Engineering Student | Developer | Problem Solver</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saadcentric&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=600&height=60&lines=AI+Developer;Software+Engineer;Machine+Learning+Enthusiast;Building+Ideas+Into+Reality" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=600&height=60&lines=Artificial+Intelligence;Software+Engineer;Building+&+Creating+;Code.+Create.+Innovate" alt="Typing SVG">
 </p>
 
 <p align="center">
