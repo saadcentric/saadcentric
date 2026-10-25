@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="./Sadcentric_ Bangladesh Cyberpunk Developer Workspace.png"
+    src="./Neon Bangladeshi Cyberpunk Developer Banner.png"
     alt="saadcentric AI Developer"
     width="100%"
   />
