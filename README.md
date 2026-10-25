@@ -22,7 +22,7 @@
 
 ## 🧑‍💻 About Me
 
-Hey there! I'm **Saad Ahmed**, also known as **SaadCentric**. 👋
+Hey there! I'm **Saad Ahmed**, also known as **saadcentric**. 👋
 
 I'm a Computer Science and Engineering student at **Daffodil International University**, currently in my 3rd semester.
 
@@ -159,21 +159,21 @@ I believe consistency matters more than perfection. Every concept I learn brings
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/saadcentric">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
-<a href="YOUR_FACEBOOK_URL">
+<a href="https://www.facebook.com/saadcentric/">
   <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
 </a>
 
 <br/><br/>
 
-<a href="mailto:YOUR_EMAIL_ADDRESS">
+<a href="mailto:261-15-080@diu.edu.bd">
   <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 &nbsp;
-<a href="YOUR_INSTAGRAM_URL">
+<a href="https://www.instagram.com/saadcentric">
   <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
