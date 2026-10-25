@@ -1,3 +1,12 @@
+<p align="center">
+  <img
+    src="./Sadcentric_ Bangladesh Cyberpunk Developer Workspace.png"
+    alt="saadcentric AI Developer"
+    width="100%"
+  />
+</p>
+
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:090979,50:00D4FF,100:7C3AED&text=SAADCENTRIC&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Dream%20%3E%20Code%20%3E%20Build%20%3E%20Repeat&descSize=17&descAlignY=60" width="100%" alt="SaadCentric banner"/>
